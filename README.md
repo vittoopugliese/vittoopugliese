@@ -1,7 +1,7 @@
 <h1 align="center">Hi ! I'm Vittorio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BIF7&size=24&duration=6000&width=552&lines=Frontend+developer+from+Argentina">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=c33BIF7&size=28&duration=6000&width=552&lines=Frontend+developer+from+Argentina">
 </p>
 
 - 🔭 I’m currently working on [NFTorio](https://vittoopugliese.github.io/NFTorio/) - My own NFT marketplace.
