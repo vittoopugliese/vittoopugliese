@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [NFTorio](https://vittoopugliese.github.io/NFTorio/) - My own NFT marketplace.
-
+- 🔭 I’m currently working on <a href="https://vittoopugliese.github.io/NFTorio/" target="_blank">NFTorio</a> - My own NFT marketplace.
 - 🌱 Currently learning **React.js & Solidity**
 
 - 📫 How to reach me: **vittoopugliese@gmail.com**
@@ -14,6 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vittoopugliese" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="rogerdimonte" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vittoopugliese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogerdimonte" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vittoopugliese" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.instagram.com/vittoopugliese/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
