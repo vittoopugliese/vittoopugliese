@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [NFTorio](https://vittoopugliese.github.io/NFTorio/) - My own NFT marketplace.
 
+- Here is my [Portfolio](https://vittoopugliese.github.io/portfolio/)
+
 - 🌱 Currently learning **React.js & Solidity**
 
 - 📫 How to reach me: **vittoopugliese@gmail.com**
