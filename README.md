@@ -8,7 +8,7 @@
 
 - 🤩 Here is my [Portfolio](https://vittoopugliese.github.io/portfolio/)
 
-- 🌱 Currently learning **React.js & Solidity**
+- 🌱 Currently learning **Angular**
 
 - 📫 How to reach me: **vittoopugliese@gmail.com**
 
