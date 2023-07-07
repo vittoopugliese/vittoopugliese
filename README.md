@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kubrik Digital** with Angular 15
 
-- 🤩 Portfolio work in progress (chatGPT clone, NFT selling App, and more apps!)
+- 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling App, and more apps!)
 
 - 🌱 Currently learning **React & Next.js**
 
