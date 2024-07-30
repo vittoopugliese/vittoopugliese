@@ -1,18 +1,16 @@
-<h1 align="center">Hi! I'm Vittorio</h1>
+<h1 align="center">Hi !! - I'm Vittorio</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=c33BIF7&size=28&duration=6000&width=552&lines=Frontend+developer+from+Argentina">
 </p>
 
-- 🔭 I’m currently working on **Kubrik Digital** with Angular 15
+- 🔭 Currently working on **Kubrik Digital** with multiple versions of Angular, React and React Native.
 
-- 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling App, and more apps!)
+- 🌱 Currently learning **C++ on University UTN FRGP - TUP 2024**
 
-- 🌱 Currently learning **React & Next.js**
+- 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling page, and more apps!)
 
 - 📫 How to reach me: **vittoopugliesedev@gmail.com**
-
-- ⚡ Fun fact **I'm an excellent musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
