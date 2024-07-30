@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=c33BIF7&size=28&duration=6000&width=552&lines=Frontend+developer+from+Argentina">
 </p>
 
-- 🔭 Currently working on **Kubrik Digital** with multiple versions of Angular, React and React Native.
+- 🔭 Currently working at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/)  with multiple versions of Angular, React and React Native.
 
 - 🌱 Currently learning **C++ on University UTN FRGP - TUP 2024**
 
