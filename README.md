@@ -6,7 +6,7 @@
 
 - 🔭 Currently working at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/)  with multiple versions of Angular, React and React Native.
 
-- 🌱 Currently learning **C++ on University UTN FRGP - TUP 2024**
+- 🌱 Learning **C++ on University UTN FRGP - TUP 2024**
 
 - 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling page, and more apps!)
 
