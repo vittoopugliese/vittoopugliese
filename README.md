@@ -1,16 +1,16 @@
-<h1 align="center">Hi !! - I'm Vittorio</h1>
+<h1 align="center">Hi - I'm Vittorio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=c33BIF7&size=28&duration=6000&width=552&lines=Frontend+developer+from+Argentina">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f21b1b&size=30&duration=3000&width=800&lines=Frontend+And+Mobile+developer+from+Argentina">
 </p>
 
-- 🔭 Currently working at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/)  with multiple versions of Angular, React and React Native.
+- 🔭 Currently leading a Mobile App Development using React Native Expo at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/).
 
-- 🌱 Learning **C++ on University UTN FRGP - TUP 2024**
+- 🌱 Learning **C++ and .NET (C#) on University UTN FRGP**
 
 - 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling page, and more apps!)
 
-- 📫 How to reach me: **vittoopugliesedev@gmail.com**
+- 📫 How to reach me: **vittoopugliese@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
