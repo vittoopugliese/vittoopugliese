@@ -10,8 +10,6 @@
 
 - 🤩 [Portfolio](https://vittoriop.dev/)  (chatGPT clone, NFT selling page, and more apps!)
 
-- 📫 How to reach me: **vittoopugliese@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vittoopugliese" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="40" width="40" /></a>
