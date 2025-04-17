@@ -6,9 +6,9 @@
 
 - 🔭 Currently leading a Mobile App Development using React Native Expo at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/)
 
-- 🌱 Learning **C++ and .NET (C#) on University UTN FRGP**
+- 🌱 Learning **C++ and .NET (C#) at University UTN FRGP**
 
-- 🤩 [Portfolio](https://vittorio.fun/)  (chatGPT clone, NFT selling page, and more apps!)
+- 🤩 [Portfolio](https://vittorio.fun/)  (chatGPT clone, NFT selling page, drum pads playroom and more web apps!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
