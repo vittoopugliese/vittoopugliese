@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=f21b1b&size=30&duration=3000&width=800&lines=Frontend+And+Mobile+developer+from+Argentina">
 </p>
 
-- 🔭 Currently leading a Mobile App Development using React Native Expo at [**Kubrik Digital**](https://www.linkedin.com/company/kubrik-digital/mycompany/)
+- 🔭 Web & Mobile App Developer (NextJS, React, RN, Angular)
 
-- 🌱 Learning **C++ and .NET (C#) at University UTN FRGP**
+- 🌱 University UTN FRGP
 
-- 🤩 [Portfolio](https://vittorio.fun/)  (chatGPT clone, NFT selling page, drum pads playroom and more web apps!)
+- 🤩 [Portfolio](https://vittorio.fun/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
