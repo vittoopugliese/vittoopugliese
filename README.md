@@ -1,7 +1,5 @@
-<h1 align="center">Vittorio</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f21b1b&size=30&duration=3000&width=800&lines=Product+Engineer+from+Argentina">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f21b1b&size=30&duration=3000&width=800&lines=Vittorio+-+Product+Engineer+from+Argentina">
 </p>
 https://vittoriodev.netlify.app/
 <br />
