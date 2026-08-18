@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vittoopugliese/vittoopugliese/main/assets/vittorio-banner.svg" alt="Vittorio - Product Engineer from Argentina" width="700" />
+  <img src="https://raw.githubusercontent.com/vittoopugliese/vittoopugliese/main/vittorio-banner.svg" alt="Vittorio - Product Engineer from Argentina" width="700" />
 </p>
 
 <p>
